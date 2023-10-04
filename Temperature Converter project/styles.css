@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(242, 167, 27);
+    text-align: center;
+    margin-top: 200px;
+}
+#heading {
+  text-align: center;
+  font-size: 50px;
+}
+.temp{
+    color:darkred;
+    font-size: 30px;
+    font-weight: bold;
+}
+#unit{
+    font-size: medium;
+}
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+#result-container {
+  text-align: center;
+  margin-top: 20px;
+}
+button{
+    background-color:rgb(148, 135, 222);
+    font-size: 15px;
+    margin:10px;
+    padding: 5px;
+}
+#result{
+    margin-top:50px;
+    font-weight: bold;
+    font-size: 30px;
+    color: darkred;
+}
